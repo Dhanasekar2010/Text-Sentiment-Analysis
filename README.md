@@ -40,15 +40,7 @@ Text-Sentiment-Analysis/
 
 ## ⚙️ Installation
 
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/text-sentiment-analysis.git
-
-2️⃣ Navigate to the project folder
-
-cd text-sentiment-analysis
-
-3️⃣ Install required libraries
+Install required libraries
 
 pip install -r requirements.txt
 
